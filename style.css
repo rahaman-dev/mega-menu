@@ -57,7 +57,8 @@ header {
 .menuItem ul li a {
   font-size: 18px;
 }
-header ul li a:hover {
+.container .menu ul li a:hover,
+.megamenu .menuItem ul li a:hover {
   color: #00ffff;
   transition: 0.5s;
 }
