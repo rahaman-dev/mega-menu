@@ -37,7 +37,7 @@ header {
   opacity: 0;
   transition: 1.5s;
   visibility: hidden;
-  box-shadow: 0px 10px 2px 3px rgb(23, 128, 163);
+  box-shadow: 0px 10px 2px 3px rgba(86, 211, 134, 0.692);
   display: grid;
   grid-template-columns: auto auto auto;
 }
@@ -57,7 +57,7 @@ header {
 .menuItem ul li a {
   font-size: 18px;
 }
-.menu ul li a:hover {
+header ul li a:hover {
   color: #00ffff;
   transition: 0.5s;
 }
