@@ -58,6 +58,6 @@ header {
   font-size: 18px;
 }
 .menu ul li a:hover {
-  color: aqua;
+  color: #00ffff;
   transition: 0.5s;
 }
