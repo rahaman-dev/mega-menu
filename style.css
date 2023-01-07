@@ -29,7 +29,6 @@ header {
 .menu > ul > li a {
   color: #fff;
 }
-
 .megamenu {
   position: absolute;
   top: 120%;
@@ -57,4 +56,8 @@ header {
 }
 .menuItem ul li a {
   font-size: 18px;
+}
+.menu ul li a:hover {
+  color: aqua;
+  transition: 0.5s;
 }
