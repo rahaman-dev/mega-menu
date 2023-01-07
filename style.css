@@ -36,7 +36,7 @@ header {
   width: 100%;
   left: 0;
   opacity: 0;
-  transition: 2s;
+  transition: 1.5s;
   visibility: hidden;
   box-shadow: 0px 10px 2px 3px rgb(23, 128, 163);
   display: grid;
