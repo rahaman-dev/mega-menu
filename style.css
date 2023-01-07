@@ -29,6 +29,9 @@ header {
 .menu > ul > li a {
   color: #fff;
 }
+.fa-chevron-down {
+  margin-left: 3px;
+}
 .megamenu {
   position: absolute;
   top: 120%;
